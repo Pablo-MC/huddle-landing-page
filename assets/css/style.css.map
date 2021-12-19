@@ -1,0 +1,13 @@
+{
+    "version": 3,
+    "mappings": "AIAA,AAAA,MAAM,AAAC,CACL,gBAAgB,CAAE,IAAI,CACvB",
+    "sources": [
+        "../scss/style.scss",
+        "../scss/base/_base.scss",
+        "../scss/base/_colors.scss",
+        "../scss/base/_fonts.scss",
+        "../scss/pages/_home.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
